@@ -1,0 +1,10 @@
+[INFO] System booted
+[DEBUG] Initializing user session
+[INFO] User logged in
+[WARNING] Memory usage at 85%
+[ERROR] Failed to load configuration file
+[DEBUG] Retrying connection to database
+[INFO] Data backup started
+[ERROR] Backup failed due to permission issue
+[WARNING] Low disk space
+[INFO] System shutdown initiated
